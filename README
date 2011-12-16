@@ -1,0 +1,1 @@
+A django project to manage one or many background processes if you're unable to create and manage your own init scripts on the server.
